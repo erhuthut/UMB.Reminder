@@ -1,0 +1,11 @@
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\bin\Debug\netcoreapp2.0\UMBReminder.deps.json
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\bin\Debug\netcoreapp2.0\UMBReminder.runtimeconfig.json
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\bin\Debug\netcoreapp2.0\UMBReminder.runtimeconfig.dev.json
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\bin\Debug\netcoreapp2.0\UMBReminder.dll
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\bin\Debug\netcoreapp2.0\UMBReminder.pdb
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\obj\Debug\netcoreapp2.0\UMBReminder.csproj.CoreCompileInputs.cache
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\obj\Debug\netcoreapp2.0\UMBReminder.AssemblyInfoInputs.cache
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\obj\Debug\netcoreapp2.0\UMBReminder.AssemblyInfo.cs
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\obj\Debug\netcoreapp2.0\UMBReminder.dll
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\obj\Debug\netcoreapp2.0\UMBReminder.pdb
+C:\Projects\UMBReminder1\UMBReminder\UMBReminder\obj\Debug\netcoreapp2.0\UMBReminder.csprojResolveAssemblyReference.cache
